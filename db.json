@@ -1,0 +1,91 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Aquaman",
+      "language": "English",
+      "rate": 4.5,
+      "type": "Action Advneture Fantacy",
+      "imageUrl": "https://image.ibb.co/f0hhZc/bp.jpg",
+      "date": "2022-12-27T05:11:18.289Z"
+    },
+    {
+      "id": 3,
+      "name": "Avengers",
+      "language": "ENGLISH",
+      "rate": 4.5,
+      "type": "Action Adventure Fantasy",
+      "imageUrl": "https://image.ibb.co/f0hhZc/bp.jpg",
+      "date": "2022-12-27T05:11:18.289Z"
+    },
+    {
+      "id": 4,
+      "name": "Death Wish",
+      "language": "ENGLISH",
+      "type": "Action Crime Thriller",
+      "rate": 3.2,
+      "imageUrl": "https://image.ibb.co/gC9PfH/dw.jpg",
+      "date": "2022-12-24T05:11:18.289Z"
+    },
+    {
+      "id": 5,
+      "name": "Coco",
+      "language": "ENGLISH",
+      "type": "Adventure Animation Family",
+      "rate": 5,
+      "imageUrl": "https://image.ibb.co/dQwWSx/coco.jpg",
+      "date": "2022-12-27T05:11:18.289Z"
+    },
+    {
+      "id": 6,
+      "name": "Black Friday",
+      "language": "ENGLISH",
+      "type": "Adventure Animation Family",
+      "rate": 5,
+      "imageUrl": "https://image.ibb.co/dQwWSx/coco.jpg",
+      "date": "2023-11-27T05:11:18.289Z"
+    },
+    {
+      "id": 7,
+      "name": "Blade3",
+      "language": "ENGLISH",
+      "type": "Adventure Animation Family",
+      "rate": 5,
+      "imageUrl": "https://image.ibb.co/dQwWSx/coco.jpg",
+      "date": "2023-10-5T05:11:18.289Z"
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "name": "Black Panther2",
+      "language": "English",
+      "rate": "9",
+      "type": "Action Adventure Fantacy",
+      "date": "2023-10-06T06:30:23.552Z",
+      "id": 11
+    },
+    {
+      "name": "Avenger End Game",
+      "language": "English",
+      "rate": "9",
+      "type": "Action Adventure Fantacy",
+      "date": "2023-10-06T06:35:43.695Z",
+      "id": 12
+    },
+    {
+      "name": "Spider Man",
+      "language": "English",
+      "rate": "9",
+      "type": "Action Adventure Fantacy",
+      "date": "2023-10-06T06:36:01.312Z",
+      "id": 13
+    }
+  ]
+}
